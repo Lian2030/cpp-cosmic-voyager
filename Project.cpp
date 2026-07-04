@@ -3,7 +3,7 @@
 // CG Project - The Cosmic Voyager
 // Lian Talal Alanazi 446009851
 // University of Umm al-Qura
-// Scene 1: Launch from Earth - 
+// Scene 1: Launch from Earth
 // Scene 2: Orbiting Past Rotating Planets
 // Scene 3: Alien Encounter 
 // Scene 4: Landing on a Distant Moon 
