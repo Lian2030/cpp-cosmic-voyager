@@ -1,12 +1,13 @@
 //
 // Project.cpp
 // CG Project - The Cosmic Voyager
-// The Orbiters
-// Scene 1: Launch from Earth - Lian Talal Alanazi 446009851
-// Scene 2: Orbiting Past Rotating Planets - Fatema Obaid Alruways 446000790
-// Scene 3: Alien Encounter - ALl contributed
-// Scene 4: Landing on a Distant Moon - Maha Safar Almuqati 446009760
-// Scene 5: Return Back to Earth - Wareef Basim Almaghmasi 4460005374
+// Lian Talal Alanazi 446009851
+// University of Umm al-Qura
+// Scene 1: Launch from Earth - 
+// Scene 2: Orbiting Past Rotating Planets
+// Scene 3: Alien Encounter 
+// Scene 4: Landing on a Distant Moon 
+// Scene 5: Return Back to Earth 
 //
 
 #define _CRT_SECURE_NO_WARNINGS
