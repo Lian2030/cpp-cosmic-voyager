@@ -1,4 +1,6 @@
 [README.md](https://github.com/user-attachments/files/33552419/README.md)
+
+
 # The Cosmic Voyager
 
 An interactive 2D space-mission animation built in **C++ with OpenGL and GLUT**. The program tells a five-scene story — launch from Earth, a flight past rotating planets, an alien encounter, a landing on the Moon where an astronaut plants the Saudi flag, and the return home — with the rocket controlled from the keyboard the whole way through.
@@ -7,12 +9,16 @@ Built for **CS2206 – Computer Graphics** at Umm Al-Qura University, 2025–202
 
 ## My role
 
-I built and integrated this project end to end — combining every scene into one working program and authoring the full project report. Submitted as a four-person group project. My main contributions:
+I built this project end to end, every scene, the full code and its integration into one working program, and the complete project report, presentation and demo video. The work included:
 
 - **Scene 1 – Launch from Earth:** the night sky and star field, the grass-textured ground, the launch pad, the full rocket model, and the shooting-star animation.
-- **Scene 3 – Alien Encounter:** the alien spacecraft and its descent, synced against the rocket's climb.
-- **Code integration:** combining the separately-written scenes into one working program — the scene-based structure, shared state, and the build that compiles and runs end to end.
-- The project presentation and demo video.
+- **Scene 2 – Orbiting Planets:** Mercury, Venus and Mars as texture-mapped circles, each rotating at its own speed and direction.
+- **Scene 3 – Alien Encounter:** the alien spacecraft — dome, aliens inside, rim lights, metallic rim and exhaust glow — and its descent, synced against the rocket's climb.
+- **Scene 4 – Moon Landing:** the Moon with its scaling approach effect, the 180° landing flip, and the detailed astronaut who plants the Saudi flag.
+- **Scene 5 – Return to Earth:** the texture-mapped Earth, the landing sequence, and the "Welcome Home" message box.
+
+Plus the code integration — the scene-based structure, the shared state across scenes, and the build that compiles and runs end to end.
+
 
 ## How it works
 
